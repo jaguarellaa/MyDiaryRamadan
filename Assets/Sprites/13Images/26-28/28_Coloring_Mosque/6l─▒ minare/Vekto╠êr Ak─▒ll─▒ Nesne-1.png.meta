@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 768eeb5002929114c8f387cd6638ab8a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_0"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 106
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a1facfff76a34c8308b33865c3fd6
+      internalID: 2064796441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_1"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60fe117c8f6ea74f9f91b061c3b1c56
+      internalID: 311477428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca41f6e3949a1d4e9a3084811e2c6f5
+      internalID: -1690523793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe47869002424f4aa210f51ffedeed5
+      internalID: 482814750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_2"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 170
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6408b33e612936d49ac33c97884c6b89
+      internalID: -279910443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_4"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 204
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead64c4864ac7ad4c9d90ae07fef2929
+      internalID: -1738922837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_6"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 264
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85dec66630137438436df103e0206e
+      internalID: -289268856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_7"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 299
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574d95b8a390b5945b38fcf5c0fe9ba9
+      internalID: 1250791870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_8"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 296
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af134564cfa18784b8c8b2de5e88915b
+      internalID: 1162823484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_9"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 261
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e649720ad801dfb4791dc2196611c267
+      internalID: -721853234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_10"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 201
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2f1c255e0ed84bbd1054877840593
+      internalID: -69205778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_11"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 168
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca28eb1374b8b6b42a29f17e3e1584df
+      internalID: 168490138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_12"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 138
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f9eaa0d95c6a4bb0572cfaab7d5b8
+      internalID: -2116611395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_13"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 102
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810808c7fafe34748985db9447045cd6
+      internalID: -80397853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_14"
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 70
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8790d9bbac547f44aab3b9d1d187786
+      internalID: -813146264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_15"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a399881d9a87b4cbcec20902716f42
+      internalID: -608005775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_1": 311477428
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_0": 2064796441
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_8": 1162823484
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_12": -2116611395
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_3": -1690523793
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_6": -289268856
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_15": -608005775
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_10": -69205778
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_4": -1738922837
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_11": 168490138
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_13": -80397853
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_5": 482814750
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_7": 1250791870
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_2": -279910443
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_9": -721853234
+      "Vekto\u2560\xEAr Ak\u2500\u2592ll\u2500\u2592 Nesne-1_14": -813146264
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dark
+  - green
+  - Walls
+  - blue
+  - 1
+  - 6
+  - cat
+  - 4
+  - other
+  - ScoreText
+  - 2
+  - 3
+  - 5
+  - Screen
+  - GameManager
+  - Basket
+  - 8
+  - MarbleControl
+  - 7
+  - Maze_FinishPoint
+  - MarblePool
+  - mama
+  - Balloon
+  - BalloonOrange
+  - Gift2
+  - Gift1
+  - Gift3
+  - Gift4
+  - MazeWalls
+  - Balloon-Blue
+  - Balloon-Green
+  - Balloon-Red
+  - Balloon-Orange
+  - Balloon-Purple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e587787c8a8c4e543a9c7a155fd5c178
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Scrambled Tofu
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 434171df06689f34ba5b3324678c91da, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
