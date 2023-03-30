@@ -121,7 +121,7 @@ QualitySettings:
     shadowResolution: 1
     shadowProjection: 1
     shadowCascades: 2
-    shadowDistance: 708.6748
+    shadowDistance: 1367.9622
     shadowNearPlaneOffset: 2
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
@@ -148,7 +148,7 @@ QualitySettings:
     asyncUploadBufferSize: 4
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: 460f0a8e32ae7164ea3f6a4dfed04388,
+    customRenderPipeline: {fileID: 11400000, guid: 687e2b5e00f21d642899eec642b731f8,
       type: 2}
     excludedTargetPlatforms: []
   - serializedVersion: 2
