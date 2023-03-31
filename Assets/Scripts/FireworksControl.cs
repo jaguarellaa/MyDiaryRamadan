@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class FireworksControl : MonoBehaviour
 {
-    [SerializeField] GameObject firework;
+    //[SerializeField] GameObject firework;
     [SerializeField] GameObject button;
     [SerializeField] GameObject buttonHand;
     [SerializeField] GameObject ball;
     [SerializeField] GameObject havan;
+    [SerializeField] GameObject particle1;
+    [SerializeField] GameObject particle2;
+    [SerializeField] GameObject particle3;
     Animation anim;
 
     public AudioSource[] sounds;
@@ -28,7 +31,10 @@ public class FireworksControl : MonoBehaviour
         buttonHand.SetActive(false);
         ball.SetActive(true);
         anim.Play("havanAnim");
-        firework.SetActive(true);
+        //firework.SetActive(true);
+        particle1.SetActive(true);
+        particle2.SetActive(true);
+        particle3.SetActive(true);
         StartCoroutine(Ball());
         StartCoroutine(Ramazan());
         button.SetActive(false);
@@ -49,7 +55,10 @@ public class FireworksControl : MonoBehaviour
     public void FireworksReset()
     {
         buttonHand.SetActive(true);
-        firework.SetActive(false);
+        //firework.SetActive(false);
+        particle1.SetActive(false);
+        particle2.SetActive(false);
+        particle3.SetActive(false);
         ball.SetActive(false);
         button.SetActive(true);
         Start();
